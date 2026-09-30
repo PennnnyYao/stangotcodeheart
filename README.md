@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **stangotcodeheart/stangotcodeheart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Stan, I am an imperial postgraduate student doing statistics.
+
+I like music, racing cars, video games outside of statistics.
+
+I am puting a list below:
+
+- Data Science Workshop
+  + intro to github
+  + intro to Rstudio
+- let's go
+  
+[this is a link](https://github.com/stangotcodeheart/stangotcodeheart/edit/main/README.md)
