@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 👋, I am Sran
 
 <!--
 **stangotcodeheart/stangotcodeheart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,4 +26,4 @@ I am puting a list below:
   + intro to Rstudio
 - let's go
   
-[this is a link](https://github.com/stangotcodeheart/stangotcodeheart/edit/main/README.md)
+[this is a ling](https://github.com/stangotcodeheart/stangotcodeheart/edit/main/README.md)
